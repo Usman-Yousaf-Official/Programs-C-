@@ -1,2 +1,4 @@
 # Programs-C++
-First Program is a basic program in C++ which calculates average age of 10 students.
+First Program has been reprogramed and now it can calculate the average age of required number of students.
+Second program is calculates fictorial of an interger.
+Third program calculates sum of positive integers starting form 1 to the limit we input in the program.
