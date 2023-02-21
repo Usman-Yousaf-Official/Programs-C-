@@ -1,0 +1,2 @@
+We can use this type of array program to calculate for example average age or marks of class of less than or equal to 100 students.
+this program is really useful tool to solve these type of problems.
