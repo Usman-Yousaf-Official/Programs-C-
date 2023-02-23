@@ -16,3 +16,6 @@ Fifth program is an array where we can input upto 100 numbers to use in other pr
 -----------------------------------------------------
 8th program transposes a 3x3 matrix.
 -----------------------------------------------------
+9th program can calculate raise to the power of an interger. power can be either positive or negative.
+-----------------------------------------------------
+
