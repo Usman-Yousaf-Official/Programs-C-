@@ -18,4 +18,5 @@ Fifth program is an array where we can input upto 100 numbers to use in other pr
 -----------------------------------------------------
 9th program can calculate raise to the power of an interger. power can be either positive or negative.
 -----------------------------------------------------
-
+10th program is about calculation of net-salaries of given number of employees and than it will points out the unlucky individuals whose net salary comparatively lower than those (lucky individuals) with gross-salaries lower than the gross-salaries of unlucky individuals.
+-----------------------------------------------------
