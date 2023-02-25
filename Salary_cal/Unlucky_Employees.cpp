@@ -41,9 +41,9 @@ main ()
 
 void getInput(double sal[][2], int numEmps)
 	{ 
- 		for (int i = 1; i <= numEmps; i ++) 
+ 		for (int i = 0; i < numEmps; i++) 
  		{
- 			cout << "\n Please enter the gross salary for employee no." << i << ": ";
+ 			cout << "\n Please enter the gross salary for employee no." << i+1 << ": ";
  			cin >> sal[i][0]; // Get the gross salary for each employee 
 		} 
 	}	
@@ -135,7 +135,7 @@ void printUnluckies(int lucky[], int numEmps)
  	{ 
  		if(lucky[i] == 1) 
  		{
- 			cout <<"\n Employee No.: " << i; 
+ 			cout <<"\n Employee No.: " << i+1; 
  		} 
  	} 
 } 
