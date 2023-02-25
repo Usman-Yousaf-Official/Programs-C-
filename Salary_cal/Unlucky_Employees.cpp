@@ -81,7 +81,7 @@ void calcNetSal(double sal[][2], int numEmps)
 	} 
 }
 
-//
+// function that finds the unluckey employees in the company
 
 void findUnluckies(double sal[][2], int numEmps, int lucky[])
 { 
@@ -107,7 +107,7 @@ void findUnluckies(double sal[][2], int numEmps, int lucky[])
  	} 
 } 
 
-//
+// function that mark the unluckey emplayees in the lucky array
 
 void markIfUnlucky(double sal[][2], int numEmps, int lucky[], int upperBound, int empNbr)
 { 
@@ -127,7 +127,7 @@ void markIfUnlucky(double sal[][2], int numEmps, int lucky[], int upperBound, in
 	}
 }
 
-//
+// function that shows the number of unluckey employees marked by the markIfUnlucky() function in luckey array
 
 void printUnluckies(int lucky[], int numEmps) 
 { 
