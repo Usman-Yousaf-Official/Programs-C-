@@ -26,5 +26,11 @@ main ()
 	cout << "\nAddress of the array is shown using pointer: \n";
 	cout << multi;
 	
+	// This will still shows address of the first element of the array because it is a two dimentional array and we will have to use * twice 
+	// to derefrence the address of this element of the array.
+	
+	cout << "\n" << *multi;
+	cout << "\nValue of the first elemnt of the array is: " << **multi;
+	
 }
 
