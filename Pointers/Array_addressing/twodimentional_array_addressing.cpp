@@ -23,7 +23,7 @@ main ()
 	
 	
 	
-	cout << "\nAddress of the array is shown using pointer: \n";
+	cout << "\nAddress of the array is shown using pointer in this case (0,0): \n";
 	cout << multi;
 	
 	
@@ -36,5 +36,12 @@ main ()
 	
 	cout << "\nDerefrenceing two dimentional array to see the value of first element of the array: " << **multi;
 	
+	// adding ++ to the 2d array will make pointer jump an entire row
+	
+	cout << "\nAddress of the first element of second row in this case it is (1,0): " << multi+1;
+	
+	// in order to move pointer to next column we have to derefrence the row then add number of column we want to jump
+	
+	cout << "\nAddress of the second element of first row in this case it is (0,1): " << *multi + 1;
 }
 
