@@ -20,3 +20,7 @@ Fifth program is an array where we can input upto 100 numbers to use in other pr
 -----------------------------------------------------
 10th program is about calculation of net-salaries of given number of employees and than it will points out the unlucky individuals whose net salary comparatively lower than those (lucky individuals) with gross-salaries lower than the gross-salaries of unlucky individuals.
 -----------------------------------------------------
+11th program copies the string of one array to the destination array using pointer variable.
+-----------------------------------------------------
+12th program is about multi-dimentioanl arrays and how to refrence and derefrence these array and how to jump the pointer to different addresses in that array.
+-----------------------------------------------------
