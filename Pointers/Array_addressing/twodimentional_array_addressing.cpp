@@ -43,5 +43,13 @@ main ()
 	// in order to move pointer to next column we have to derefrence the row then add number of column we want to jump
 	
 	cout << "\nAddress of the second element of first row in this case it is (0,1): " << *multi + 1;
+	
+	// derefrencing the array address of different rows and columns for values at given addresses
+	
+	cout << "\nValue of 3rd row and 4th column element in this case (2,3): " << *(*(multi +2) + 3); // output should be 6
+	
+	cout << "\nValue of 4th row and 7th column element in this case (3,6): " << *(*(multi +3) + 6); // output should be 18
+	
+	cout << "\nValue of 5rd row and 6th column element in this case (4,5): " << *(*(multi +4) + 5); // output should be 20
 }
 
