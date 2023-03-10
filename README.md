@@ -24,3 +24,5 @@ Fifth program is an array where we can input upto 100 numbers to use in other pr
 -----------------------------------------------------
 12th program is about multi-dimentioanl arrays and how to refrence and derefrence these array and how to jump the pointer to different addresses in that array.
 -----------------------------------------------------
+13th program is an array of pointer variables
+-----------------------------------------------------
