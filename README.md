@@ -28,3 +28,5 @@ Fifth program is an array where we can input upto 100 numbers to use in other pr
 -----------------------------------------------------
 14th program is a program of pointer arrays that shuffle the deck of cards which deals out a random sequence of cards everytime we run the program.
 -----------------------------------------------------
+15th program prints 256 ASCII code characters on screen
+-----------------------------------------------------
