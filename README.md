@@ -30,3 +30,5 @@ Fifth program is an array where we can input upto 100 numbers to use in other pr
 -----------------------------------------------------
 15th program prints 256 ASCII code characters on screen
 -----------------------------------------------------
+16th program Analysis the text user input in terminal and uses ctype.h library to provide desired output
+-----------------------------------------------------
